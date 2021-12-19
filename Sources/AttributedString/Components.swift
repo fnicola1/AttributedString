@@ -39,8 +39,8 @@ public struct Text: Component {
     public let attributes: Attributes
 }
 
-typealias Font = UIFont
-typealias Color = UIColor
+public typealias Font = UIFont
+public typealias Color = UIColor
 
 public extension Component {
     func backgroundColor(_ color: Color) -> Component {
