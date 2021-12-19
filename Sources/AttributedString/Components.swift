@@ -1,4 +1,5 @@
 import Foundation
+import UIKit
 
 public protocol Component {
     var string: String { get }
