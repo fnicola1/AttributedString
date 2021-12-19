@@ -1,3 +1,5 @@
+import Foundation
+
 public protocol Component {
     var string: String { get }
     var attributes: Attributes { get }

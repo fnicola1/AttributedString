@@ -1,5 +1,4 @@
 import Foundation
-import UIKit
 
 public typealias Attributes = [NSAttributedString.Key: Any]
 
